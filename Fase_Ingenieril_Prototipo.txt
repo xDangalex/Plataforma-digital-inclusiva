@@ -1,0 +1,9 @@
+Título: Fase Ingenieril — Implementación del prototipo funcional (TRL5)
+Proyecto: Plataforma digital inclusiva para reducir la brecha digital educativa en comunidades vulnerables de Bogotá
+Autores: Daniel Arturo Velásquez, Katherine Alfonso Villalba, Camilo Andrés Romero
+Universidad: Universidad Nacional Abierta y a Distancia - UNAD
+
+En la presente fase ingenieril se consolidó la implementación del prototipo funcional del proyecto.
+Se adoptó un enfoque ágil iterativo para priorizar funcionalidades críticas orientadas a la inclusión y optimización para dispositivos de bajo rendimiento.
+
+(Resumen de metodología, requerimientos y evidencias - listo para pegar en el documento maestro.)
